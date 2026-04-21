@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(245, 212, 212, 0.28);
+}
+
+p{
+    font-size: 20px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.native{
+   height: auto;
+    width: 100%;
+    padding: 0%;
+}
